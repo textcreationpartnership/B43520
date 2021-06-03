@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newcastle upon Tyne, Sept. 26th 1670 At a court held in the Guildhall, within the town of Newcastle upon Tyne, by custome (time out of mind) for conservation of the River of Tyne, the 26th day of September, anno dom. 1670.  Before Tho. Davison Esquire, Mayor; Sir Robert Shafto Knight, recorder, and several of the aldermen of the said town.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43520</idno><idno type="EEBO-CITATION">297426158</idno>
+  <idno type="VID">208149</idno>
+  <idno type="EEBO-PROQUEST">2248543644</idno>
+  
+            <idno type="OCLC"> 297426158</idno>
+            <idno type="OCLC">ocn 297426158</idno>
+            <idno type="STC">Wing N892</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208149)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2923:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newcastle upon Tyne, Sept. 26th 1670 At a court held in the Guildhall, within the town of Newcastle upon Tyne, by custome (time out of mind) for conservation of the River of Tyne, the 26th day of September, anno dom. 1670.  Before Tho. Davison Esquire, Mayor; Sir Robert Shafto Knight, recorder, and several of the aldermen of the said town.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : map.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Newcastle upon Tyne (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Newcastle upon Tyne (England) --  Maps --  Early works to 1800.</term>
+               <term type="geographic_name">Tyne, River (England) --  History --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208149:1"/>
+            <pb facs="tcp:208149:2"/>
+            <head>
+               <figure>
+                  <figDesc>engraved map</figDesc>
+                  <head>This is a true coppy of the Mapp taken vpon Oathe.</head>
+                  <p>
+                     <list>
+                        <head>
+                           <hi>THE SURUEY OF THE RIVER OF TYNE</hi> Leading from the Sea on the East to Newcastle on the West</head>
+                        <item>A Bickar Sand</item>
+                        <item>B S<seg rend="sup">t</seg> Antons Sand</item>
+                        <item>C French man Sand</item>
+                        <item>D Bill Sand</item>
+                        <item>E Elbow Sand</item>
+                        <item>F Jarrow Sand</item>
+                        <item>G Flatworth Sand</item>
+                        <item>H Dirtwick Sand</item>
+                        <item>I Westoe the lower part of Jarrow</item>
+                        <item>K Hird Sand</item>
+                        <item>L West Panns</item>
+                        <item>M Prier Haven</item>
+                        <item>N Boyes in the River</item>
+                        <item>O Coble Dean</item>
+                     </list>
+                  </p>
+               </figure>
+            </head>
+            <div type="part">
+               <head>Newcastle <hi>upon</hi> Tyne, Sept. <hi>26<seg rend="sup">th</seg> 1670.</hi>
+               </head>
+               <p>AT a Court held in the <hi>Guildhall,</hi> within the Town of <hi>Newcastle</hi> upon <hi>Tyne,</hi> by Custome (time out of mind) for Conservation of the River of <hi>Tyne,</hi> the 26<seg rend="sup">th</seg> day of <hi>September, Anno Dom.</hi> 1670. before <hi>Tho. Davison</hi> Esquire, Mayor; Sir <hi>Robert Shafto</hi> Knight, Recorder, and several of the Aldermen of the said Town.</p>
+               <list>
+                  <head>Masters, and Mariners.</head>
+                  <item>
+                     <hi>John Simpson,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Nixon,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Atkinson.</hi>
+                  </item>
+                  <item>
+                     <hi>Nich. Rand,</hi>
+                  </item>
+                  <item>
+                     <hi>Cuth. Wrangham.</hi>
+                  </item>
+                  <item>
+                     <hi>William Thompson.</hi>
+                  </item>
+                  <item>
+                     <hi>Nich. Fenwicke,</hi>
+                  </item>
+                  <item>
+                     <hi>William Awbony,</hi>
+                  </item>
+                  <item>
+                     <hi>Michael Durham,</hi>
+                  </item>
+                  <item>
+                     <hi>Rowland Kirby,</hi>
+                  </item>
+                  <item>
+                     <hi>William Stothart,</hi>
+                  </item>
+                  <item>
+                     <hi>William Carnaby.</hi>
+                  </item>
+               </list>
+               <p n="1">I. WE the said <hi>Jurors</hi> do present upon our <hi>Oaths,</hi> That the Erecting of a Ballast-Wharfe, or Ballast Shoar, at <hi>Westoe-panns,</hi> adjoyning upon the East of <hi>Jarrow-Slike,</hi> will be a Nuzance to the River of <hi>Tyne,</hi> and a great Damage to the said River.</p>
+               <p n="2">II. We the said <hi>Jurors</hi> do farther present upon our <hi>Oaths,</hi> That the Erection of a Ballast-Wharfe, or Shoar, at the said place called <hi>Westoe-panns,</hi> will very much straighten the said River of <hi>Tyne,</hi> and hinder the Passing and Re-passing of Ships, Up and Down the said River; and, will inevitably cause the Overseting of Shps; which, if it happen, cannot be Weighed: the Channel of the River, in this place, being so extreame Narrow.</p>
+               <p n="3">III. We the said <hi>Jurors</hi> do farther present upon our <hi>Oaths,</hi> That the said place called <hi>Westoe-panns</hi> is seated upon Rocks and dangerous Stones, which be very injurious to Shipping, Using the Coal-Trade, and hinder Keels from passing to Load any Ships below the intended Shoar, without danger and difficulty.</p>
+            </div>
+            <div type="part">
+               <head>The Certificate of the Masters and Pilots of the <hi>Trinity-House</hi> of <hi>Newcastle</hi> upon <hi>Tyne,</hi> concerning <hi>Jarrow-slike;</hi> as also their Answer to the Reasons of the Masters of the <hi>Trinity-House</hi> of <hi>London.</hi> Newcastle October <hi>6. 1670.</hi>
+               </head>
+               <p>WE the <hi>Trinity-Masters</hi> in <hi>Newcastle,</hi> having been well acquainted with the River of <hi>Tyne,</hi> and the Port and Haven there, do think in our Judgments, that it is no ways fit to erect a Ballast Wharfe at <hi>Jarrow-slike,</hi> we think it will be destructive to the River of <hi>Tyne,</hi> for these Reasons.</p>
+               <p n="1">I. Because of its Situation, being near the Mouth of the Haven, the unavoidable fall of Ballast out of the Ships that should happen to cast their Ballast at this intended Shoar, together with the Bal<g ref="char:EOLhyphen"/>last, which the Southerly and Easterly Winds blow off the Key, will, in process of time, choak up the mouth of the Haven, or at least occasion a great Sand-bed, near the Mouth of the Haven, which will very much damnifie the said Haven.</p>
+               <p n="2">II. The Channel there is very streight, not being above 80 or 90 yards in breadth, and Ships would be hindered in their passage up and down the River, and much endangered by Anchors and Hawsers, and high Westerly Winds, to which it is open; and if any Wrecks should happen, it is impossible to get them weighed, by reason of the quickness of the Tide and Depth.</p>
+               <p n="3">III. It will be destructive to the River, in that it will hinder the flowing of the Water, for that <hi>Jarrow-slike,</hi> where the Shoar is desired, is the great place for the Reception of the War, and this <hi>Jarrow-slike,</hi> makes it flow one hour and a quarter, at the Bridge of <hi>Newcastle,</hi> after the Tide is fallen at <hi>Tinmouth-Bar.</hi>
+               </p>
+               <p n="4">IV. This Shoar will not only be Destructive to the River, but likewise to Trade, for the quickness of the Tide will be such at this Intended Shoar, that the Keels cannot lye there, to lay Coals aboard, nor Ships to receive them, by which fewer Voyages will be made.</p>
+               <p n="5">V. It will Enhanse the Price of Coals, for many more Lighters must be made and provided, than now are; which will be a great Charge, and twice as many Coals may be laid aboard Ships, in the higher part of the River, as can be at <hi>Shields</hi> in the same time.</p>
+               <p n="6">VI. It will be destructive to Navigation, for Ships casting their Ballast at this Intended Shoar, must have their Anchors laid over the whole Channel, for keeping them from being Dashed against the Rocks and Stones, near this Key, or against the Key it self in Stormy Weather, the Wind from S. S. W. and N. N W. having a full influence upon this place, in the whole River.</p>
+               <p n="7">VII. And, it is Situate amongst Rocks, insomuch that a Ship being blown ashoar, at the lower part of this Intended Shoar, she will be Bulged.</p>
+            </div>
+            <div type="part">
+               <head>To the Kings Most Excellent MAJESTY.</head>
+               <p>WE the Lord <hi>Mayor</hi> and <hi>Aldermen</hi> of the City of <hi>London,</hi> in pursuance of an Order of Your Majesty in Council, of the 5<seg rend="sup">th</seg> of <hi>August</hi> last <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ast, made upon the <hi>Petition</hi> of Sir <hi>Charles Adderly</hi> Knight, and <hi>John Crooke</hi> Esquire, touching a <hi>Ballast-shore,</hi> intended by them to be erected at <hi>Jarrow-slike</hi> near South-<hi>Sheelds</hi> in the County <hi>Palatine</hi> of <hi>Durham;</hi> whereby we, and the Masters of the <hi>Trini<g ref="char:EOLhyphen"/>ty-House,</hi> are required severally to consider of the <hi>Petitioners Allegations,</hi> and to <hi>Report</hi> to Your Majesty in Council, what advantage and conveniency may accrew to the <hi>Publick,</hi> by erecting the said <hi>Ballast-shore;</hi> Do humbly <hi>certifie,</hi> That we have taken into serious consideration the said several <hi>Allegations</hi> mentioned in Your Majesties said Order; <hi>which are,</hi> [That this intended <hi>Ballast-shore,</hi> tends greatly to the Advance of Trade, Security of Shipping, Preservation of the River of <hi>Tyne,</hi> and Mens-lives: And that <hi>Newcastle</hi> it self, by the increase of Trade, will be much advantaged thereby:] and have heard as well what was thought fit to be offered by those Gentlemen <hi>concerned,</hi> who appeared for it; as by divers Gentlemen of <hi>Newcastle,</hi> and their Counsel Learned, who appeared against it: And, upon the Whole Matter, nothing was made out before us, in <hi>Proof</hi> or <hi>Evidence</hi> of the said <hi>Allegations;</hi> but, on the contrary, it appeared to us, by what was <hi>offered</hi> and <hi>Demonstrated</hi> by those of <hi>Newcastle,</hi> and by the Testimony of divers Able and Antient <hi>Ship-Masters,</hi> and other Persons Ʋnconcerned; That the erecting of a <hi>Ballast shore,</hi> as is Designed at <hi>Jarrow-Slike,</hi> would prove Destructive to <hi>Trade</hi> in <hi>General,</hi> Dange<g ref="char:EOLhyphen"/>rous both to <hi>Shipping</hi> and <hi>Mens Lives;</hi> to the Inhauncing of the Price of <hi>Sea-Coales;</hi> To the Obstruction and Choaking of the River of <hi>Tyne;</hi> Exceedingly Mischievous to the Bar of <hi>Tinmouth-Haven;</hi> And Manifestly to the Decrease of the Trade and Damage of the Town of <hi>Newcastle:</hi> The better Judgment and Consideration whereof is humbly submitted to Your Majesties Great Wisdom, by.</p>
+               <closer>
+                  <signed>
+                     <hi>Your MAJESTIES Most Humble and most Obedient Subjects and Servants,</hi>
+                     <list>
+                        <item>
+                           <hi>Samuel Starling <hi>Mayor,</hi>
+                           </hi>
+                        </item>
+                        <item>Rich. Cheverton,</item>
+                        <item>John Lawrence,</item>
+                        <item>William Peake,</item>
+                        <item>Rich. Rives,</item>
+                        <item>George Waterman,</item>
+                        <item>Robert Hanson,</item>
+                        <item>William Hooker,</item>
+                        <item>Joseph Sheldon,</item>
+                        <item>Tho. Davies,</item>
+                        <item>Fran. Chaplin,</item>
+                        <item>James Edwards,</item>
+                        <item>Dan. Forth,</item>
+                        <item>J. Ward,</item>
+                        <item>Jonathan Dawes.</item>
+                     </list>
+                  </signed>
+                  <dateline>
+                     <date>Octob, <hi>27. 1670.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <pb facs="tcp:208149:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
